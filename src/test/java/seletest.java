@@ -13,7 +13,7 @@ public class seletest {
     @Test
     @Issue(value="IOP-289345")
     public void userCanLoginByUsername() {
-        step("AAAAA");
+        step("AAAAAB");
         log.error("self log");
         System.out.println("sdvgsdg");
 //        open("/login");
